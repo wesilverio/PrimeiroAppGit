@@ -1,0 +1,19 @@
+<resources>
+    <!-- String(Nome) do app -->
+    <string name="app_name">Sorteio</string>
+
+    <!-- Strings da Activity_main -->
+    <string name="tag_image">Imagem de uma onomatopéia com a palavra Sorteio</string>
+    <string name="inicio">Valor Inicial</string>
+    <string name="fim">Valor Final</string>
+    <string name="sortear">Sortear</string>
+    <string name="res">RESULTADO</string>
+
+    <!-- Strings do Menu -->
+    <string name="menuSobre">Sobre</string>
+    <string name="img_logo">Imagem do logo da WES produções</string>
+    <string name="texto">App desenvolvido por WES Produções ME</string>
+
+    <!-- String tela Splash -->
+    <string name="saudacao">INICIANDO - Aguarde, por favor.</string>
+</resources>
